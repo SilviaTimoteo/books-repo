@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%7Brepo-books%7D/static/css/main.48276452.chunk.css",
-    "main.js": "/%7Brepo-books%7D/static/js/main.ee85fc63.chunk.js",
-    "main.js.map": "/%7Brepo-books%7D/static/js/main.ee85fc63.chunk.js.map",
-    "runtime-main.js": "/%7Brepo-books%7D/static/js/runtime-main.d75be0d4.js",
-    "runtime-main.js.map": "/%7Brepo-books%7D/static/js/runtime-main.d75be0d4.js.map",
-    "static/js/2.3efa729e.chunk.js": "/%7Brepo-books%7D/static/js/2.3efa729e.chunk.js",
-    "static/js/2.3efa729e.chunk.js.map": "/%7Brepo-books%7D/static/js/2.3efa729e.chunk.js.map",
-    "static/js/3.0e8af490.chunk.js": "/%7Brepo-books%7D/static/js/3.0e8af490.chunk.js",
-    "static/js/3.0e8af490.chunk.js.map": "/%7Brepo-books%7D/static/js/3.0e8af490.chunk.js.map",
-    "index.html": "/%7Brepo-books%7D/index.html",
-    "static/css/main.48276452.chunk.css.map": "/%7Brepo-books%7D/static/css/main.48276452.chunk.css.map",
-    "static/js/2.3efa729e.chunk.js.LICENSE.txt": "/%7Brepo-books%7D/static/js/2.3efa729e.chunk.js.LICENSE.txt"
+    "main.css": "/repo-books/static/css/main.48276452.chunk.css",
+    "main.js": "/repo-books/static/js/main.ee85fc63.chunk.js",
+    "main.js.map": "/repo-books/static/js/main.ee85fc63.chunk.js.map",
+    "runtime-main.js": "/repo-books/static/js/runtime-main.623bddac.js",
+    "runtime-main.js.map": "/repo-books/static/js/runtime-main.623bddac.js.map",
+    "static/js/2.688fd3a4.chunk.js": "/repo-books/static/js/2.688fd3a4.chunk.js",
+    "static/js/2.688fd3a4.chunk.js.map": "/repo-books/static/js/2.688fd3a4.chunk.js.map",
+    "static/js/3.0e8af490.chunk.js": "/repo-books/static/js/3.0e8af490.chunk.js",
+    "static/js/3.0e8af490.chunk.js.map": "/repo-books/static/js/3.0e8af490.chunk.js.map",
+    "index.html": "/repo-books/index.html",
+    "static/css/main.48276452.chunk.css.map": "/repo-books/static/css/main.48276452.chunk.css.map",
+    "static/js/2.688fd3a4.chunk.js.LICENSE.txt": "/repo-books/static/js/2.688fd3a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d75be0d4.js",
-    "static/js/2.3efa729e.chunk.js",
+    "static/js/runtime-main.623bddac.js",
+    "static/js/2.688fd3a4.chunk.js",
     "static/css/main.48276452.chunk.css",
     "static/js/main.ee85fc63.chunk.js"
   ]
