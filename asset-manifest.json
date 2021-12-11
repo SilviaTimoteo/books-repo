@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Brepo-books%7D/static/css/main.48276452.chunk.css",
+    "main.js": "/%7Brepo-books%7D/static/js/main.ee85fc63.chunk.js",
+    "main.js.map": "/%7Brepo-books%7D/static/js/main.ee85fc63.chunk.js.map",
+    "runtime-main.js": "/%7Brepo-books%7D/static/js/runtime-main.d75be0d4.js",
+    "runtime-main.js.map": "/%7Brepo-books%7D/static/js/runtime-main.d75be0d4.js.map",
+    "static/js/2.3efa729e.chunk.js": "/%7Brepo-books%7D/static/js/2.3efa729e.chunk.js",
+    "static/js/2.3efa729e.chunk.js.map": "/%7Brepo-books%7D/static/js/2.3efa729e.chunk.js.map",
+    "static/js/3.0e8af490.chunk.js": "/%7Brepo-books%7D/static/js/3.0e8af490.chunk.js",
+    "static/js/3.0e8af490.chunk.js.map": "/%7Brepo-books%7D/static/js/3.0e8af490.chunk.js.map",
+    "index.html": "/%7Brepo-books%7D/index.html",
+    "static/css/main.48276452.chunk.css.map": "/%7Brepo-books%7D/static/css/main.48276452.chunk.css.map",
+    "static/js/2.3efa729e.chunk.js.LICENSE.txt": "/%7Brepo-books%7D/static/js/2.3efa729e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d75be0d4.js",
+    "static/js/2.3efa729e.chunk.js",
+    "static/css/main.48276452.chunk.css",
+    "static/js/main.ee85fc63.chunk.js"
+  ]
+}
