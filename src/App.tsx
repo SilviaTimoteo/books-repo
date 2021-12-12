@@ -13,7 +13,7 @@ function App() {
       <Provider store={store}>
         <div style={{ display: 'flex', flex: 1, flexDirection: 'column' }}>
           <Header />
-          <BrowserRouter>
+          <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
               <Route path={'/'} element={<Home />}></Route>
               <Route path={'/page/:id'} element={<Home />} />

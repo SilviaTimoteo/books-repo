@@ -1,11 +1,21 @@
-import React from 'react';
+import React, { Component, ReactNode } from 'react';
+interface Props {
+  children: ReactNode;
+}
 
-class ErrorBoundary extends React.PureComponent<
-  {},
-  { hasError: boolean; errorMessage?: string }
-> {
-  state = { hasError: false, errorMessage: '' };
+interface State {
+  hasError: boolean;
+  errorMessage: string;
+}
+
+class ErrorBoundary extends Component<Props, State> {
+  public state: State = {
+    hasError: false,
+    errorMessage: '',
+  };
+
   componentDidCatch(error: Error) {
+    console.log(error);
     this.setState({
       hasError: true,
       errorMessage: `${error.name}\n${error.message}\n`,

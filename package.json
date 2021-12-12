@@ -2,7 +2,7 @@
   "name": "books-repository",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{SilviaTimoteo}.github.io/{repo-books}",
+  "homepage": "https://silviatimoteo.github.io/books-repo/",
   "dependencies": {
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",

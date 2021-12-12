@@ -56,6 +56,8 @@ export const Home: React.FC<{}> = (): JSX.Element => {
   return (
     <Styled.PageContainer>
       <Pagination
+        key={`pagination-${pageNumberURLInt}
+    `}
         defaultPage={pageNumberURLInt}
         count={numberOfPages}
         size='large'

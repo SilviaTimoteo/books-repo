@@ -22,6 +22,7 @@ export const useGetBookService = () => {
             count: response.count,
           })
         );
+
         setLoading(false);
       })
       .catch((_) => {
